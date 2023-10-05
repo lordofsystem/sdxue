@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "path": "SDX Exercise" },
+    { "path": "docker", "title": "Introduction to docker" }
+  ]
+}
